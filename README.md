@@ -7,7 +7,10 @@ A multi-page website for a creative agency, built with plain HTML and CSS. Inclu
 ## Screenshot
 
 <img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/f7d7ef60-ac5a-472b-b288-c89290acc0af" />
+<img width="678" height="780" alt="image" src="https://github.com/user-attachments/assets/f7ac8bdf-b463-464b-89c2-155099e6c68d" />
+<img width="732" height="742" alt="image" src="https://github.com/user-attachments/assets/9688ce2a-f3a1-4b32-8a24-9c65e744084f" />
 ![Uploading image.png…]()
+
 
 ## Features
 
